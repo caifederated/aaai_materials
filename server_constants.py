@@ -1,0 +1,2 @@
+METRIC_ACCURACY_KEY = "accuracy"
+METRIC_LOSS_KEY = "loss"
